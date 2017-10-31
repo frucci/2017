@@ -10,6 +10,4 @@ This is my archive regarding some works I've done during 2017.
 
 I code in R and Python.
 
-I will not upload everything. I'll update this repository uploading small guides and examples regarding what I'm currently doing and I promise you I'll try to keep this repo as much as possible updated.
-
-
+I'll update this repository with small guides and examples. I promise you I'll try to keep this repo as much as possible updated.
